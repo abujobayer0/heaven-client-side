@@ -1,0 +1,26 @@
+.gallery-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.my-masonry-grid {
+  display: flex;
+  margin-left: -5px; /* Adjust as needed */
+  width: auto;
+}
+
+.my-masonry-grid_column {
+  padding-left: 5px; /* Adjust as needed */
+  background-clip: padding-box;
+}
+
+.gallery-item {
+  margin-bottom: 10px; /* Adjust as needed */
+}
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
