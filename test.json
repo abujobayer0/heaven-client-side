@@ -1,0 +1,325 @@
+{
+      "sellerName": "ToyLandia",
+      "email": "toylandia@example.com",
+      "description": "Unleash the imagination with our interactive building block set. Endless possibilities for creative play and learning."
+    ,
+
+
+
+    
+      "sellerName": "PlayfulMinds",
+      "email": "playfulminds@example.com",
+      "description": "Discover the wonders of science with our hands-on science experiment kit. Explore physics, chemistry, and biology in a fun and engaging way."
+    ,
+
+
+
+    
+      "sellerName": "AdventureZone",
+      "email": "adventurezone@example.com",
+      "description": "Embark on thrilling adventures with our outdoor explorer set. Perfect for nature lovers and budding adventurers."
+    ,
+
+
+
+    
+      "sellerName": "ImaginaryWorlds",
+      "email": "imaginaryworlds@example.com",
+      "description": "Step into a world of fantasy with our magical unicorn plush. Soft and cuddly, it's the perfect companion for imaginative play."
+    ,
+
+
+
+    
+      "sellerName": "BuildItUp",
+      "email": "builditup@example.com",
+      "description": "Unleash your creativity with our building block set. Build towers, castles, and more with these vibrant and durable blocks."
+    ,
+
+
+
+    
+      "sellerName": "MusicalMelodies",
+      "email": "musicalmelodies@example.com",
+      "description": "Create beautiful music with our electronic keyboard. Dance on the giant keys to play your favorite tunes."
+    ,
+
+
+
+    
+      "sellerName": "DinoAdventures",
+      "email": "dinoadventures@example.com",
+      "description": "Travel back in time with our realistic dinosaur figures. Perfect for dinosaur enthusiasts and imaginative play."
+    ,
+
+
+
+    
+      "sellerName": "ArtisticExpressions",
+      "email": "artisticexpressions@example.com",
+      "description": "Unleash your inner artist with our complete art set. Paint, draw, and create stunning masterpieces."
+    ,
+
+
+
+    
+      "sellerName": "LittleChefs",
+      "email": "littlechefs@example.com",
+      "description": "Inspire culinary creativity with our pretend play kitchen set. Cook up delicious imaginary meals."
+    ,
+
+
+
+    
+      "sellerName": "RoboTech",
+      "email": "robotech@example.com",
+      "description": "Explore the world of robotics with our programmable robot kit. Learn coding and robotics in a fun and interactive way."
+    ,
+
+
+
+    
+      "sellerName": "PlaytimeParadise",
+      "email": "playtimeparadise@example.com",
+      "description": "Experience the ultimate playtime with our indoor playground set. Swings, slides, and more for endless fun."
+    ,
+
+
+
+    
+      "sellerName": "AdventureSeekers",
+      "email": "adventureseekers@example.com",
+      "description": "Gear up for outdoor expeditions with our camping and hiking set. Discover the wonders of nature."
+    ,
+
+
+
+    
+      "sellerName": "BrainyToys",
+      "email": "brainytoys@example.com",
+      "description": "Challenge your mind with our brain-teasing puzzle set. Perfect for sharpening problem-solving skills."
+    ,
+
+
+
+    
+      "sellerName": "ActiveKids",
+      "email": "activekids@example.com",
+      "description": "Keep kids active and entertained with our outdoor sports set. Soccer, basketball, and more for hours of fun."
+    ,
+
+
+
+    
+      "sellerName": "RobotWorld",
+      "email": "robotworld@example.com",
+      "description": "Enter a world of futuristic robots with our remote-controlled robot toy. Exciting features and interactive play."
+    ,
+
+
+
+    
+      "sellerName": "CreativeCrafts",
+      "email": "creativecrafts@example.com",
+      "description": "Unleash your creativity with our arts and crafts kit. Make unique and colorful creations."
+    ,
+
+
+
+    
+      "sellerName": "PlayfulPets",
+      "email": "playfulpets@example.com",
+      "description": "Adopt a furry friend with our lifelike plush animal toys. Cuddle, play, and create lifelong memories."
+    ,
+
+
+
+    
+      "sellerName": "ScienceWizards",
+      "email": "sciencewizards@example.com",
+      "description": "Become a science wizard with our chemistry lab set. Perform exciting experiments and uncover scientific mysteries."
+    ,
+
+
+
+    
+      "sellerName": "MagicalMoments",
+      "email": "magicalmoments@example.com",
+      "description": "Experience the magic of our fairy princess doll set. Sparkles, wings, and endless enchantment."
+    ,
+
+
+
+    
+      "sellerName": "BrickBuilders",
+      "email": "brickbuilders@example.com",
+      "description": "Build and create with our interlocking brick set. Compatible with other popular brick brands."
+    ,
+
+
+
+    
+      "sellerName": "AquaAdventures",
+      "email": "aquaadventures@example.com",
+      "description": "Dive into aquatic fun with our underwater explorer kit. Learn about marine life and ocean conservation."
+    ,
+
+
+
+    
+      "sellerName": "OutdoorExplorers",
+      "email": "outdoorexplorers@example.com",
+      "description": "Discover the wonders of the great outdoors with our camping and hiking essentials. Perfect for nature enthusiasts."
+    ,
+
+
+
+    
+      "sellerName": "MagicalMakers",
+      "email": "magicalmakers@example.com",
+      "description": "Unlock the magic of creativity with our DIY craft kit. Make personalized gifts and keepsakes."
+    ,
+
+
+
+    
+      "sellerName": "SpeedyWheels",
+      "email": "speedywheels@example.com",
+      "description": "Race to the finish line with our high-speed remote-controlled cars. Perfect for adrenaline-filled competitions."
+    ,
+
+
+
+    
+      "sellerName": "DinoExplorers",
+      "email": "dinoexplorers@example.com",
+      "description": "Embark on thrilling dinosaur adventures with our excavation kit. Uncover fossils and learn about paleontology."
+    ,
+
+
+
+    
+      "sellerName": "PlaygroundFun",
+      "email": "playgroundfun@example.com",
+      "description": "Create your own playground with our versatile playset. Swings, slides, and endless entertainment."
+    ,
+
+
+
+    
+      "sellerName": "STEMGenius",
+      "email": "stemgenius@example.com",
+      "description": "Unleash your inner STEM genius with our science and engineering kit. Build, experiment, and innovate."
+    ,
+
+
+
+    
+      "sellerName": "ArtisticExplorers",
+      "email": "artisticexplorers@example.com",
+      "description": "Embark on an artistic journey with our complete art set. Paint, draw, and express your creativity."
+    ,
+
+
+
+    
+      "sellerName": "LittleBuilders",
+      "email": "littlebuilders@example.com",
+      "description": "Inspire imaginative play and building skills with our construction block set. Endless possibilities for creativity."
+    ,
+
+
+
+    
+      "sellerName": "TechWhiz",
+      "email": "techwhiz@example.com",
+      "description": "Discover the world of technology with our electronic circuit kit. Learn about circuits and build exciting projects."
+    ,
+
+
+
+    
+      "sellerName": "FunTimeToys",
+      "email": "funtimetoys@example.com",
+      "description": "Create fun and memorable moments with our wide range of toys. Something for every child's interest and imagination."
+    ,
+
+
+
+    
+      "sellerName": "JungleExplorers",
+      "email": "jungleexplorers@example.com",
+      "description": "Embark on a wild adventure with our jungle explorer set. Discover exotic animals and learn about the rainforest."
+    ,
+
+
+
+    
+      "sellerName": "PlayfulPuzzles",
+      "email": "playfulpuzzles@example.com",
+      "description": "Challenge your mind with our collection of puzzles. Develop problem-solving skills while having fun."
+    ,
+
+
+
+    
+      "sellerName": "ActiveAdventures",
+      "email": "activeadventures@example.com",
+      "description": "Encourage outdoor play and active adventures with our sports equipment set. Keep kids active and engaged."
+    ,
+
+
+
+    
+      "sellerName": "RoboFriends",
+      "email": "robofriends@example.com",
+      "description": "Build and program your own robotic friends with our robotics kit. Learn about coding and robotics in a hands-on way."
+    ,
+
+
+
+    
+      "sellerName": "WonderArt",
+      "email": "wonderart@example.com",
+      "description": "Unleash your creativity with our art and craft set. Paint, sculpt, and create beautiful works of art."
+    ,
+
+
+
+    
+      "sellerName": "AdventurousMinds",
+      "email": "adventurousminds@example.com",
+      "description": "Fuel your child's sense of adventure with our outdoor exploration kit. Discover the wonders of nature and the great outdoors."
+    ,
+
+
+
+    
+      "sellerName": "InventiveCreators",
+      "email": "inventivecreators@example.com",
+      "description": "Inspire young inventors with our STEM invention kit. Build, create, and innovate with endless possibilities."
+    ,
+
+
+
+    
+      "sellerName": "ToyEmporium",
+      "email": "toyemporium@example.com",
+      "description": "Find a wide selection of toys for all ages and interests at Toy Emporium. From classic favorites to the latest trends."
+    ,
+
+
+
+    
+      "sellerName": "DoodleArt",
+      "email": "doodleart@example.com",
+      "description": "Unleash your imagination with our doodle art set. Create intricate and colorful doodles with ease."
+    ,
+
+
+
+    
+      "sellerName": "MagicMakers",
+      "email": "magicmakers@example.com",
+      "description": "Enter the world of magic and illusion with our magic trick set. Learn amazing tricks and entertain your friends."
+    }
