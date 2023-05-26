@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Chicle&family=Courgette&family=Mochiy+Pop+One&family=Poppins&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.fancyText {
+  font-family: "Chicle", cursive;
+}
+.planetText {
+  font-family: "Courgette", cursive;
+}
+.active {
+  color: #ffffff;
+}
+.newText {
+  font-family: "Poppins", sans-serif;
+}
